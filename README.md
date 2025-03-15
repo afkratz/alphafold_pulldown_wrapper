@@ -1,10 +1,10 @@
 alphafold_pulldown_wrapper
 
-#### Wrapper / utility functions around alphafoldpulldown
+Wrapper / utility functions around alphafoldpulldown
 
 This code is set up to work on Chavez Lab machines, and if you are re-using it for any other purpose, you will need to do additional set-up. See [Github - KosinskiLab/AlphaPulldown](https://github.com/KosinskiLab/AlphaPulldown) for instructions on setting up local data needed to run AlphaPulldown
 
-#### Install instructions on Chavez Lab machines:
+ Install instructions on Chavez Lab machines:
 
 ```
 conda create -n alphafold_pulldown
